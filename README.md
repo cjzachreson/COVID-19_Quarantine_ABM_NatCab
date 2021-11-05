@@ -15,5 +15,5 @@ no_intervention_version: same as base, but with minor modifications to make sure
 RAT_version: reduced test sensitivity. 
 
 More details for each version are contained in README files located in the separate directories. 
-NOTE: the model is implemented in Julia language, and draws basic functionality from Agents.jl 
-Agents.jl is a framework designed for agent-based modelling, see https://juliadynamics.github.io/Agents.jl/stable/
+NOTE: the model is implemented in Julia language, and draws basic functionality from 
+Agents.jl, a framework designed for agent-based modelling, see https://juliadynamics.github.io/Agents.jl/stable/
