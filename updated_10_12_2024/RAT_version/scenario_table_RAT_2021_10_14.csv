@@ -1,0 +1,7 @@
+quar_duration	test_schedule	home_quar_flag	hotel_quar_flag	sync_flag	pVac_Travellers	VEi	VEs	compliance_rate	label
+2	0.01, 1.01	TRUE	FALSE	FALSE	1	0.36	0.67	0.75	7d home quarantine vaccinated low comp
+2	0.01, 1.01	TRUE	FALSE	FALSE	1	0.36	0.67	0.9	7d home quarantine vaccinated med comp
+2	0.01, 1.01	TRUE	FALSE	FALSE	1	0.36	0.67	1	7d home quarantine vaccinated high comp
+3	0.01, 1.01, 2.01	TRUE	FALSE	FALSE	1	0.36	0.67	0.75	14d home quarantine vaccinated low comp
+3	0.01, 1.01, 2.01	TRUE	FALSE	FALSE	1	0.36	0.67	0.9	14d home quarantine vaccinated med comp
+3	0.01, 1.01, 2.01	TRUE	FALSE	FALSE	1	0.36	0.67	1	14d home quarantine vaccinated high comp
