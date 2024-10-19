@@ -1,0 +1,7 @@
+quar_duration	test_schedule	home_quar_flag	hotel_quar_flag	sync_flag	pVac_Travellers	VEi	VEs	compliance_rate	label
+7	1, 5	TRUE	FALSE	FALSE	1	0.36	0.67	0	no quarantine, vaccinated, 2 tests
+7	1, 5	TRUE	FALSE	FALSE	1	0.36	0.67	0.9	7d home quarantine vaccinated med comp
+14	1, 5, 13	TRUE	FALSE	FALSE	1	0.36	0.67	0.9	14d home quarantine vaccinated med comp
+7	1, 5	FALSE	TRUE	FALSE	1	0.36	0.67	1	7d hotel quarantine vaccinated
+14	1, 5, 13	FALSE	TRUE	FALSE	0	0	0	1	14d hotel quarantine unvaccinated
+14	1, 5, 13	FALSE	TRUE	FALSE	1	0.36	0.67	1	14d hotel quarantine vaccinated
